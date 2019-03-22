@@ -1,0 +1,22 @@
+,id,fuel,ABS-compatibility,parking-sensor,symboling,normalized-losses,num-of-doors,body-style,manufacturer,condition,wheel-base,length,width,height,car-weight,engine-type,num-of-persons,engine-size,battery-type,bore,stroke,compression-ratio,horsepower,peak-rpm,city-mpg,highway-mpg
+0,0,petrol,ABS not supported,installed,1,119,two,hatchback,plymouth,new,93.7,157.3,63.8,50.8,1918,ohc,four,90,li-ion,2.97,3.23,9.4,68,5500,37,41
+1,1,petrol,ABS supported,not installed,-2,103,four,sedan,volvo,new,104.3,188.8,67.2,56.2,3045,ohc,four,130,sli,3.62,3.15,7.5,162,5100,17,22
+2,2,petrol,ABS not supported,installed,1,113,four,sedan,mazda,new,93.1,166.8,64.2,54.1,1950,ohc,four,91,li-ion,3.08,3.15,9.0,68,5000,31,38
+3,3,petrol,ABS not supported,installed,0,91,four,hatchback,toyota,new,95.7,166.3,64.4,52.8,2122,ohc,four,98,li-ion,3.19,3.03,9.0,70,4800,28,34
+4,4,petrol,ABS supported,not installed,-1,95,four,sedan,volvo,new,109.1,188.8,68.8,55.5,3049,ohc,four,141,sli,3.78,3.15,8.7,160,5300,19,25
+5,5,petrol,ABS not supported,not compatible,0,85,four,wagon,subaru,new,96.9,173.6,65.4,54.9,2420,ohcf,four,108,li-ion,3.62,2.64,9.0,82,4800,23,29
+6,6,petrol,ABS not supported,installed,2,83,two,hatchback,subaru,new,93.7,157.9,63.6,53.7,2120,ohcf,four,108,li-ion,3.62,2.64,8.7,73,4400,26,31
+7,21,petrol,ABS not supported,not installed,3,150,two,hatchback,mazda,new,95.3,169.0,65.7,49.6,2385,rotor,two,70,agm,?,?,9.4,101,6000,17,23
+8,22,diesel,ABS supported,not installed,0,161,four,sedan,peugot,new,107.9,186.7,68.4,56.7,3197,l,four,152,vrla,3.7,3.52,21.0,95,4150,28,33
+9,23,petrol,ABS not supported,not compatible,0,102,four,sedan,subaru,new,97.0,172.0,65.4,54.3,2385,ohcf,four,108,li-ion,3.62,2.64,9.0,82,4800,24,25
+10,24,petrol,ABS supported,installed,3,150,two,hatchback,saab,new,99.1,186.6,66.5,56.1,2808,dohc,four,121,sli,3.54,3.07,9.0,160,5500,19,26
+11,25,petrol,ABS not supported,not installed,2,134,two,hardtop,toyota,new,98.4,176.2,65.6,52.0,2536,ohc,four,146,sli,3.62,3.5,9.3,116,4800,24,30
+12,26,diesel,ABS supported,not installed,0,?,four,wagon,peugot,new,114.2,198.9,68.4,58.7,3430,l,four,152,vrla,3.7,3.52,21.0,95,4150,25,25
+13,27,diesel,ABS not supported,installed,0,?,?,sedan,mazda,new,98.8,177.8,66.5,55.5,2443,ohc,four,122,vrla,3.39,3.39,22.7,64,4650,36,42
+14,28,diesel,ABS supported,installed,2,94,four,sedan,volkswagen,new,97.3,171.7,65.5,55.7,2319,ohc,four,97,vrla,3.01,3.4,23.0,68,4500,37,42
+15,29,petrol,ABS not supported,installed,2,?,two,sedan,audi,new,99.8,177.3,66.3,53.1,2507,ohc,five,136,sli,3.19,3.4,8.5,110,5500,19,25
+16,30,petrol,ABS not supported,installed,1,128,two,hatchback,nissan,new,94.5,165.6,63.8,53.3,2028,ohc,four,97,li-ion,3.15,3.29,9.4,69,5200,31,37
+17,31,petrol,ABS not supported,installed,1,148,four,hatchback,dodge,new,93.7,157.3,63.8,50.6,1967,ohc,four,90,li-ion,2.97,3.23,9.4,68,5500,31,38
+18,32,petrol,ABS not supported,not installed,3,?,two,hardtop,porsche,old,89.5,168.9,65.0,51.6,2756,ohcf,six,194,sli,3.74,2.9,9.5,207,5900,17,25
+19,33,petrol,ABS not supported,installed,2,?,two,hatchback,renault,new,96.1,176.8,66.6,50.5,2460,ohc,four,132,sli,3.46,3.9,8.7,?,?,23,31
+20,34,diesel,ABS not supported,installed,0,91,four,sedan,toyota,new,95.7,166.3,64.4,53.0,2275,ohc,four,110,vrla,3.27,3.35,22.5,56,4500,34,36
